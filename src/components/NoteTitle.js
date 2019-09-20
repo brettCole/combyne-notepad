@@ -1,9 +1,7 @@
 import React from 'react';
 
-const NoteTitle = () => {
-  return (
+const NoteTitle = () => (
     <p>Displayed note!</p>
   )
-}
 
 export default NoteTitle;
